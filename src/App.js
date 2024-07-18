@@ -11,22 +11,12 @@ import TextForm from './components/TextForm';
 // } from "react-router-dom";
 
 function App() {
-  const [modeText, setModeText] = useState('Enable Dark Mode');
-
-  const changeModeText = () => {
-    if (modeText === 'light') {
-      setModeText('Disable Dark Mode');
-    }
-    else {
-      setModeText('Enable Dark Mode');
-    }
-  }
 
   const [mode, setMode] = useState('light');
   const toggleMode = () => {
     if (mode === 'light') {
       setMode('dark');
-      changeModeText();
+      // changeModeText();
       document.body.style.backgroundColor = '#3d3e5a';
       document.body.style.color = 'white';
     }
