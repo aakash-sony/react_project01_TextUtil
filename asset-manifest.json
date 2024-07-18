@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aakash-sony/react_project01_TextUtil/static/css/main.f855e6bc.css",
+    "main.js": "/aakash-sony/react_project01_TextUtil/static/js/main.e4417ce5.js",
+    "static/js/453.ed3810f9.chunk.js": "/aakash-sony/react_project01_TextUtil/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/aakash-sony/react_project01_TextUtil/index.html",
+    "main.f855e6bc.css.map": "/aakash-sony/react_project01_TextUtil/static/css/main.f855e6bc.css.map",
+    "main.e4417ce5.js.map": "/aakash-sony/react_project01_TextUtil/static/js/main.e4417ce5.js.map",
+    "453.ed3810f9.chunk.js.map": "/aakash-sony/react_project01_TextUtil/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e4417ce5.js"
+  ]
+}
